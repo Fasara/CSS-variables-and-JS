@@ -1,0 +1,19 @@
+kbd {
+  height: 50px;
+  width: 50px;
+  background-color: #555;
+  color: #ffa100;
+  display: block;
+  font-size: 40px;
+}
+
+ .drum-kit{
+   min-height: 100vh;
+  background-color: #4a91ef;
+  align-items: center;
+}
+
+.key {
+
+
+}
