@@ -41,7 +41,7 @@ kbd {
 }
 
 .playing {
-  transform: scale(1, 1);
+  transform: scale(1.1);
   border-color: #00cbff;
   box-shadow: 0 0 10px #00cbff;
 }
